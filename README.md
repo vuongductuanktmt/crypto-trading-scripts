@@ -62,7 +62,7 @@ This script fetches the top 200 USDT perpetual futures pairs from a selected cry
 #### Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/crypto-trading-scripts.git
+   git clone https://github.com/vuongductuanktmt/crypto-trading-scripts.git
    cd crypto-trading-scripts
    ```
 2. Install dependencies:
@@ -155,7 +155,7 @@ This script fetches candlestick data from Binance for a specified trading pair a
 #### Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/crypto-trading-scripts.git
+   git clone https://github.com/vuongductuanktmt/crypto-trading-scripts.git
    cd crypto-trading-scripts
    ```
 2. Install dependencies:
